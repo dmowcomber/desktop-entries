@@ -1,0 +1,11 @@
+github.com/alediaferia/prefixmap v1.0.1 h1:MnlMtO77dZkDgTSaQeiGW1W2NOFTSKcUh4rl57EqcIc=
+github.com/alediaferia/prefixmap v1.0.1/go.mod h1:OoVudMbSvqhz1WD0+QMmd8vhye19e3k51n69J1dr3+0=
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
+github.com/stretchr/testify v1.8.4/go.mod h1:sz/lmYIOXD/1dqDmKjjqLyZ2RngseejIcXlSw2iwfAo=
+gopkg.in/alediaferia/stackgo.v1 v1.1.1 h1:htUbPM2OVv8njXgNngn7sXYNQXMgAfRfCYtugsIpGXo=
+gopkg.in/alediaferia/stackgo.v1 v1.1.1/go.mod h1:zCaxPo2py6RpzzpTw6cgT365QmkJ+4ySaVX5ZCOYLIQ=
+gopkg.in/ini.v1 v1.67.0 h1:Dgnx+6+nfE+IfzjUEISNeydPJh9AXNNsWbGP9KzCsOA=
+gopkg.in/ini.v1 v1.67.0/go.mod h1:pNLf8WUiyNEtQjuu5G5vTm06TEv9tsIgeAvK8hOrP4k=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
